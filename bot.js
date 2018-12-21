@@ -283,4 +283,5 @@ ${prefix}t ⇏ تغيير تويتش البوت
    }
    });
  
-   
+   client.login(process.env.BOT_TOKEN)
+
