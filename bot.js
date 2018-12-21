@@ -227,7 +227,7 @@ function play(guild, song) {
 }//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
  
 
-const adminprefix = "S";
+const adminprefix = "Sk";
 const devs = ['359983506383699970'];
 client.on('message', message => {//for dev
   var argresult = message.content.split(` `).slice(1).join(' ');
